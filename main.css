@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+  }
+
+  #headline {
+      text-align: center;
+      margin-bottom: 100px;
+  }
+
+
+  #about {
+    border: 2px gray solid;
+    border-radius: 25px;
+    background:rgb(236, 234, 234);
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 5%;
+  }
+  
+  #motto {
+      text-align: center;
+  }
+
+  body {
+    font-family: "Open Sans",
+    sans-serif; 
+    font-size: 20px;
+    color: #444;
+    text-align: center;
+    line-height: 1.5;
+  }
+  
+  footer {
+    padding: 1% 0;
+    background-color: #aaa;
+  } 
+  
+  
+  header {
+    padding: 5% 0;
+  }
+  
+  section {
+    border: 2px gray solid;
+    border-radius: 25px;
+    background: rgb(236, 234, 234);
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    margin-bottom: 80px;
+  }
+
+  img {
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .project {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    text-justify: inter-word;
+    padding: 5%;
+  }
+
+  
